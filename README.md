@@ -1,4 +1,4 @@
-# Hospital Analysis ( Project ) #
+# Hospital Appointment Analysis ( Project ) #
 
 **Key Details:**
 1. Libraries Used
